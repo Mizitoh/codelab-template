@@ -2,6 +2,6 @@
 
 echo "Container started"
 
-#tail -f /dev/null
+npm install
 
 npm run start:debug
